@@ -44,9 +44,3 @@ After uploading, use **Share** or **Publish to org** on the skill under **Custom
 MIT. See [LICENSE](LICENSE).
 
 ---
-
-## עברית
-
-סקיל ללמידה בזמן עבודה: Claude מלמד נושא שתבחר בהרצאות מובנות ללא קוד, שמיועדות להאזנה (למשל בעזרת ההקראה באפליקציה). בכל התחלת שיעור חדש יש לציין במפורש את שפת ההסבר. לקבלת החלק הבא כתוב "continue".
-
-להתקנה: הורד את `listening-while-working.zip` מדף ה-Releases, העלה אותו ב-**Customize > Skills** והפעל.
