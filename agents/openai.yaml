@@ -1,0 +1,14 @@
+interface:
+  display_name: Listening while working
+  short_description: Deep, code-free lessons designed for listening at work
+  default_prompt: Use $listening-while-working to teach me [subject] in [language],
+    starting with fundamentals and progressing through connected parts.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
